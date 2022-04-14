@@ -104,6 +104,6 @@ And links are similar to images :)
 ### **Inline**  
 Whithin a sentence, [this is my anchor text](https://github.com/BelemRuizMendoza/), which takes the reader to my GitHub profile overview.  
   
-### **References**  
+### **References** (the URLs and Ids are in the following lines but are not displayed in the document)  
 [blockchain]: https://mariabelemruizmendoza.medium.com/blockchain-explained-for-non-techies-23c419dad5d  "Blockchain for non-techies"
 [Mexican 2.0]: https://mariabelemruizmendoza.medium.com/diabetes-parkinsons-disease-and-the-mexican-2-0-5e6270ff9ee9 "Diabetes, Parkinson’s disease, and the “Mexican 2.0”"

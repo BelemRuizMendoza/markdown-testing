@@ -1,3 +1,8 @@
+This is still an h2, no matter it's the first one to be turned into a header using \---
+---  
+And use **alt + 92 for the backslash** (\\), which escapes characters.
+<br><br><br>
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -9,7 +14,7 @@ This is bodytext size.
 <br><br><br>
 Another way to insert a pagebreak is by typing [space] + [space] + [intro]:  
 
-Or by using a backslash at the end of a line?<br>
+Or by using a backslash at the end of a line?
 <br><br><br>
 
 ```html
@@ -50,13 +55,14 @@ Then, an ordered list:
 3. Third.
 4. ...
 <br><br><br>
+
 ## Nested quotations:
 > Entonces, ella dijo:
->> «Me recuerda a la líne final de un haiku:»
+>> «Me recuerda a la línea final de un haikú:»
 >>> "... one-sided love."  
 
 <br><br><br>
-![Nothing you write here when you make the call will matter/bedisplayed.][imagen1]
+![Nothing you write here when you make the call will matter/be displayed.][imagen1]
 ## Tables, tables, tables!
 |column 1| column 2 | column 3|
 |:----|:-----:|-----:|
@@ -70,15 +76,17 @@ For my next trick... `<br><br><br>`. **Alt + 96 for the accent character.** Esca
 
 ¡Imágenes!
 ---
-![Texto alternativo para cuando no se carga la imagen.](https://www.warnermusic.de/sites/warnermusic.de/files/styles/wmg2013-news-page--normal/public/artists/photos/portugal_the_man_news_press_picture_335_1.jpg "Description of the image displayed.")
-<br><br><br>
-There is this other cool way of doing it, bu creating a list where each image has an ID you can use to call the image you want when and where you want it.<br>
-
-[imagen1]: https://i0.wp.com/travisfaulk.com/wp-content/uploads/2013/03/Portugal.-The-Man-Evil-Friends-Album-Cover-Artwork.jpg "Would this description work when I hover over? It does!"
-[img2]: https://xorosho.com/uploads/posts/2009-09/thumbs/1251961754_d0dc8c896632.jpg
-[image3]: https://www.warnermusic.de/sites/warnermusic.de/files/styles/wmg2013-news-page--normal/public/artists/photos/portugal_the_man_news_press_picture_335_1.jpg
+![Texto alternativo para cuando no se carga la imagen.](https://th.bing.com/th/id/OIP.UKgfoKVUn8CbLsjGTo77WAHaFg?w=278&h=205&c=7&r=0&o=5&pid=1.7 "Description of the displayed image.")
 <br><br><br>
 
-Lastly, links :)
+There is this other cool way of doing it, by creating a list where each image has an ID you can use to call the image you want when and where you want it.
+<br><br><br>
+
+[imagen1]: https://th.bing.com/th/id/OIP.Kmzlr6yWgVHguAEoA4AKSQAAAA?w=214&h=155&c=7&r=0&o=5&pid=1.7 "Would this description work when I hover over? It does!"
+[img2]: https://th.bing.com/th/id/OIP.8GmfttMQxE4pGrznx2ekMAAAAA?w=171&h=180&c=7&r=0&o=5&pid=1.7
+[image3]: https://th.bing.com/th/id/OIP.QsAMaCEp4UQRF2ev794OGgAAAA?w=268&h=141&c=7&r=0&o=5&pid=1.7
+<br><br><br>
+
+And links are similar to images :)
 ---  
-Whithin a sentence, [this is my anchor text](https://github.com/BelemRuizMendoza/), which takes the reader to my GItHub profile overview.
+Whithin a sentence, [this is my anchor text](https://github.com/BelemRuizMendoza/), which takes the reader to my GitHub profile overview.

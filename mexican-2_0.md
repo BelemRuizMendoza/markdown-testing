@@ -58,7 +58,7 @@ If the environment and current living conditions are adverse, “it is best to s
 ***
 ### Expert source
 Interview with Néstor Emmanuel Díaz Martínez, on January 19 of 2018, at the Ciatej-Guadalajara facilities.  
-***  
+*** 
 <br>  
 
 *You can read the original version in Spanish (2018): [Diabetes, párkinson y el «mexicano 2.0»].*
@@ -66,15 +66,15 @@ Or my original English version in [Medium].
 <br>
 
 [notes]: https://www.oecd.org/health/health-systems/OECD-Reviews-of-Health-Systems-Mexico-2016-Assessment-and-recommendations-Spanish.pdf
-[most hours]: (https://data.oecd.org/emp/hours-worked.htm)
-[daily expense]: (http://internet.contenidos.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/promo/presentacion_resultados_enigh2016.pdf)
-[Mexicans with a job]: (http://mexicosocial.org/index.php/81-arts-destacados-home/254-mas-empleos-menos-salarios)
-[pandemic]: (http://www.fundaciondiabetes.org/prevencion/noticia/13591/la-diabetes-sera-pandemia-en-el-ano-2030)
-[800,000]: (http://www.mexicosocial.org/index.php/81-arts-destacados-home/277-garantizar-el-derecho-a-la-alimentacion)
-[1%]: (http://www.epda.eu.com/about-parkinson-s/what-is-parkinsons/)
-[15%]: (https://www.oecd.org/health/health-systems/OECD-Reviews-of-Health-Systems-Mexico-2016-Assessment-and-recommendations-Spanish.pdf)
-[500,000]: (http://udg.mx/es/noticia/mexico-tiene-mas-de-500-mil-casos-de-parkinson-registrados)
-[human 2.0]: (https://www.nature.com/articles/nbt.4018)
-[Ciatej]: (https://www.ciatej.mx/)
-[Diabetes, párkinson y el «mexicano 2.0»]: (https://soloesciencia.com/2018/03/13/diabetes-parkinson-y-el-mexicano-2-0/)
-[Medium]: (https://mariabelemruizmendoza.medium.com/diabetes-parkinsons-disease-and-the-mexican-2-0-5e6270ff9ee9)
+[most hours]:https://data.oecd.org/emp/hours-worked.htm
+[daily expense]: http://internet.contenidos.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/promo/presentacion_resultados_enigh2016.pdf
+[Mexicans with a job]: http://mexicosocial.org/index.php/81-arts-destacados-home/254-mas-empleos-menos-salarios
+[pandemic]: http://www.fundaciondiabetes.org/prevencion/noticia/13591/la-diabetes-sera-pandemia-en-el-ano-2030
+[800,000]: http://www.mexicosocial.org/index.php/81-arts-destacados-home/277-garantizar-el-derecho-a-la-alimentacion
+[1%]: http://www.epda.eu.com/about-parkinson-s/what-is-parkinsons/
+[15%]: https://www.oecd.org/health/health-systems/OECD-Reviews-of-Health-Systems-Mexico-2016-Assessment-and-recommendations-Spanish.pdf
+[500,000]: http://udg.mx/es/noticia/mexico-tiene-mas-de-500-mil-casos-de-parkinson-registrados
+[human 2.0]: https://www.nature.com/articles/nbt.4018
+[Ciatej]: https://www.ciatej.mx/
+[Diabetes, párkinson y el «mexicano 2.0»]: https://soloesciencia.com/2018/03/13/diabetes-parkinson-y-el-mexicano-2-0/
+[Medium]: https://mariabelemruizmendoza.medium.com/diabetes-parkinsons-disease-and-the-mexican-2-0-5e6270ff9ee9

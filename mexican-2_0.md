@@ -29,7 +29,7 @@ In different media it is possible to read about the “humans 2.0”, those who 
   
 But, in science, “[human 2.0]” is referred to when talking about various available genetic technologies, such as the use of chimeric antigen receptors against cancer, adeno-associated viruses that allow patients with visual impairment to regain their sight, to name but a few; some other promising innovations are also mentioned, like mitochondrial replacement therapy, germline engineering, and gene editing technologies.  
   
-## Medical and pharmaceutical biotechnology developed by the Ciatej for the «Mexican 2.0»
+## Medical and pharmaceutical biotechnology developed by the Ciatej for the “Mexican 2.0”
 Emmanuel Díaz, Doctor of Philosophy in Biomedical Sciences, leads a multidisciplinary scientific group at the Center for Research and Assistance in Technology and Design of Jalisco State ([Ciatej], Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco); his team also has consultancies and collaborations from various national and international scientific-academic entities.  
   
 These scientists dedicate their research and experiments to the development of new methodologies and tools for the early diagnosis and personalized treatment of diabetes mellitus and Parkinson’s disease. The main tasks carried out by this group within the Ciatej’s Medical and Pharmaceutical Biotechnology unit are focused on:  

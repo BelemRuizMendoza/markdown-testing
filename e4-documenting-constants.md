@@ -40,7 +40,7 @@ Error code that the robot sends when its batteries are low.
  Marketing name for the robotic ball product.
 
 `versionNumber = 1.6`;\
-Software development kit version number.
+Software development kit (SDK) version number.
 <br><br><br>
 
 What the fictional engineering team provided:

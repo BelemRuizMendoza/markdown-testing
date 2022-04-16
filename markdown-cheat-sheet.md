@@ -55,7 +55,17 @@ Now, let's create a bulleted list:
 * Item 1.
 * Item 2.
 * Item 3.
-* ...
+* ...  
+<br><br>
+
+And it gets better:
+* For the first level, an asterisk.
+	* If you need to chage the level: tab + asterisk.
+		* Applies each time you need to change the level.
+		* To return to the previous level...
+	* Erase a tab and insert an asterisk.
+	* And that's it.
+* Back in the first level now.
 <br><br><br>
 
 Then, an ordered list:

@@ -10,7 +10,7 @@ Admin: 3
 ```
 <br>
 
-Developer notes:
+## Developer Notes
 * Students can sign up for courses and submit assignments.
 * Assistant teachers can grade assignments.
 * Teachers can grade assignments and submit final grades.

@@ -1,4 +1,4 @@
-## Constants
+## Constants Documentation
 |Name|Description|Type|
 |:---|:----------|:---|
 |`exclamationResponses`|Responses to use when the user’s line ends with an exclamation point.|Array of strings|
@@ -8,7 +8,7 @@
 |`questionStarts`|First few words of a question.|Array of strings|
 <br><br>
 
-## Functions
+## Functions Documentation
 ### `createQuestion(patientLine)`
 Returns a question based on the patient’s line.
 #### **Parameter**
@@ -42,7 +42,7 @@ Returns a random element of an array
 * Random element from the array.
 <br><br>
 
-## Enumeration
+## Enumeration Documentation
 |Property Name|Description|Value|
 |:------------|:----------|:---:|
 |`Generic`|Generic answer that does not use the patient response.|0|

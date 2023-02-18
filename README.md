@@ -1,2 +1,2 @@
 # markdown-testing
-My learning and practicing .md files.
+My learning and practicing with .md files.
